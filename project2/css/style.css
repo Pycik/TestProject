@@ -6,3 +6,7 @@ tr>th{
 p {
 	font-size: 30px;
 }
+
+table {
+	border: solid black 5px;
+}
